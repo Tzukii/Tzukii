@@ -4,7 +4,7 @@
 
 My name is Shivam Maji and I'm a photographer/software developer. I'm a sophomore in the Bay Area.
 
-## &#x270d; Blog & Writing
+## &#x270d; Photography
 
 Apart from coding, I'm also a photographer. My website is a work in progress right now, I'll keep you posted when it's live
 
