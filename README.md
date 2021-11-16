@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ParadoxFlame>&theme=<merko>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ParadoxFlame&theme=merko" />
