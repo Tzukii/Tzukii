@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/Banner.jpg "Header")](www.linkedin.com/in/shivam-maji)
+[![Header](https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/Banner.png "Header")](www.linkedin.com/in/shivam-maji)
 
 
 &#x1f4c8; GitHub Stats
