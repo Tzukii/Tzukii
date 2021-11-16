@@ -1,5 +1,8 @@
 [![Header](https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/Banner.png "Header")](https://www.linkedin.com/in/shivam-maji)
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/wave.gif" width="30px">
+
+My name is Shivam Maji and I'm a photographer/software developer. I'm a sophomore in the Bay Area.
 
 &#x1f4c8; GitHub Stats
 
