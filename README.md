@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/wave.gif" width="30px">
 
-My name is Shivam Maji and I'm a photographer/software developer. I'm a sophomore in the Bay Area. You can find me on [Instagram](https://www.instagram.com/_paradoxflame/)(Follow and I'll follow back!) and on [LinkedIn](www.linkedin.com/in/shivam-maji).
+My name is Shivam Maji and I'm a photographer/software developer. I'm a sophomore in the Bay Area. You can find me on [Instagram](https://www.instagram.com/_paradoxflame/) (Follow and I'll follow back!) and on [LinkedIn](www.linkedin.com/in/shivam-maji).
 
 ## 📷 Photography
 
