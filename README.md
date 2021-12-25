@@ -31,8 +31,8 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
 </a>
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-![Shivam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame&hide_border=true)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame&hide_border=true" />
 </a>
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-![Profile Views](https://komarev.com/ghpvc/?username=ParadoxFlame)
+<img align="center" src="https://komarev.com/ghpvc/?username=ParadoxFlame" />
 </a>
