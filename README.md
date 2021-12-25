@@ -30,4 +30,4 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=ParadoxFlame)
+![](https://komarev.com/ghpvc/?username=ParadoxFlame&theme=merko)
