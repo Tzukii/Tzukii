@@ -26,15 +26,15 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 
 <center>
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&line_height=12&theme=merko" />
+  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&line_height=12&theme=merko" />
 </a>
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
 </a>
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img align="center" height="125" src="https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame" />
+  <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame" />
 </a>
 </center>
 
