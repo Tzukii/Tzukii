@@ -25,12 +25,14 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&line_height=27&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&line_height=27&theme=merko" />
 </a>
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
 </a>
+
+<br>
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame" />
