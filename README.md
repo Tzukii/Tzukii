@@ -6,7 +6,7 @@ My name is Shivam Maji and I'm a photographer/software developer. I'm a sophomor
 
 ## 📷 Photography
 
-Apart from coding, I'm also a photographer - you can find some of my photos on my portfolio at [https://shivammaji.wixsite.com/portfolio](https://shivammaji.wixsite.com/portfolio).
+Apart from coding, I'm also a photographer - you can find some of my photos on my portfolio/website(which is a work in progress at the time I'm writing this) at [https://shivammaji.wixsite.com/portfolio](https://shivammaji.wixsite.com/portfolio).
 <!--## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
