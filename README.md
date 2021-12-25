@@ -32,13 +32,11 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
   <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/?username=ParadoxFlame&line_height=27&theme=merko" />
 </a>
-</center>
-
-<br>
 
 <a href="https://github.com/ParadoxFlame/ParadoxFlame">
   <img align="center" height="125" src="https://github-readme-streak-stats.herokuapp.com/?theme=merko&user=ParadoxFlame" />
 </a>
+</center>
 
 <br>
 
