@@ -24,16 +24,10 @@ Apart from coding, I'm also a photographer - you can find some of my photos on m
 
 ## &#x1f4c8; GitHub Stats
 
-<center>
 ![](https://github-readme-stats.vercel.app/api?username=ParadoxFlame&theme=merko)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParadoxFlame&theme=merko)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=compact)
-</center>
 
-<br>
-
-<a href="https://github.com/ParadoxFlame/ParadoxFlame">
-  <img src="https://komarev.com/ghpvc/?username=ParadoxFlame" />
-</a>
+![](https://komarev.com/ghpvc/?username=ParadoxFlame)
