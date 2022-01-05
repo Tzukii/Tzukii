@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/Banner.png "Header")](https://www.linkedin.com/in/shivam-maji)
+[![Header](https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/Banner.png "Header")](https://shivammaji.wixsite.com/portfolio)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ParadoxFlame/ParadoxFlame/master/wave.gif" width="30px">
 
