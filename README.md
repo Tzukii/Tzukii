@@ -19,4 +19,3 @@ TO BE ADDED
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=large)
 
-![](https://activity-graph.herokuapp.com/graph?username=ParadoxFlame&layout=compact&theme=merko)
