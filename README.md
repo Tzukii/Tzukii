@@ -13,10 +13,10 @@ TO BE ADDED
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ParadoxFlame&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=Tzukii&theme=merko)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParadoxFlame&theme=merko)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tzukii&theme=merko)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxFlame&theme=merko&layout=large)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tzukii&theme=merko&layout=large)
 
-![](https://komarev.com/ghpvc/?username=ParadoxFlame&theme=merko)
+![](https://komarev.com/ghpvc/?username=Tzukii&theme=merko)
